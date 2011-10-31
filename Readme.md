@@ -6,4 +6,4 @@ A javascript plugin to movemberize your site.
 
 Add this script to your page and enjoy!
 
-<script src='http://movemberize.heroku.com/movember.js'></script>
+<script src='http://movemberize.heroku.com/js/movember.js'></script>
