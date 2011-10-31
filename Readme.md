@@ -1,4 +1,4 @@
-# Movember
+# Movemberize
 
 A javascript plugin to movemberize your site.
 
